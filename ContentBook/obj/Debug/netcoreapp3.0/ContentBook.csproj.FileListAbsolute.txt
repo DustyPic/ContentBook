@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\ContentBook\ContentBook\bin\Debug\netcoreapp3.0\ContentBook.exe
+C:\Users\opilane\source\repos\ContentBook\ContentBook\bin\Debug\netcoreapp3.0\ContentBook.deps.json
+C:\Users\opilane\source\repos\ContentBook\ContentBook\bin\Debug\netcoreapp3.0\ContentBook.runtimeconfig.json
+C:\Users\opilane\source\repos\ContentBook\ContentBook\bin\Debug\netcoreapp3.0\ContentBook.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ContentBook\ContentBook\bin\Debug\netcoreapp3.0\ContentBook.dll
+C:\Users\opilane\source\repos\ContentBook\ContentBook\bin\Debug\netcoreapp3.0\ContentBook.pdb
+C:\Users\opilane\source\repos\ContentBook\ContentBook\obj\Debug\netcoreapp3.0\ContentBook.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ContentBook\ContentBook\obj\Debug\netcoreapp3.0\ContentBook.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ContentBook\ContentBook\obj\Debug\netcoreapp3.0\ContentBook.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ContentBook\ContentBook\obj\Debug\netcoreapp3.0\ContentBook.dll
+C:\Users\opilane\source\repos\ContentBook\ContentBook\obj\Debug\netcoreapp3.0\ContentBook.pdb

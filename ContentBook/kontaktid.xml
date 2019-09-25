@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<contactBook>
+  <person>
+    <name>Harri</name>
+    <comments><![CDATA[]]></comments>
+    <age>51</age>
+    <contacts>
+      <contact type="email">Mäkinen@gmail.com</contact>
+      <contact type="mobile">44662729</contact>
+      <contact type="work">563245672</contact>
+    </contacts>
+  </person>
+  <person>
+    <name>Tom</name>
+    <comments><![CDATA[]]></comments>
+    <age>12</age>
+    <contacts>
+      <contact type="email">tom.onlahe@gmail.com</contact>
+      <contact type="mobile">5723672</contact>
+      <contact type="work">56552723</contact>
+    </contacts>
+  </person>
+  <animal>
+    <name>Uky</name>
+    <age>10</age>
+  </animal>
+</contactBook>
